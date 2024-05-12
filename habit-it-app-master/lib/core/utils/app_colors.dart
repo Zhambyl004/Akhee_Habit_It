@@ -11,7 +11,7 @@ class AppColors {
   static Color fontPrimary = HexColor('#FFFFFF');
   static Color fontSecondary = HexColor('#000000');
 
-  static Color background = HexColor('#000000');
+  static Color background = HexColor('#374F59');
   static Color error = HexColor('#900C3F');
 
   static Color button = HexColor('#FFFFFF');
